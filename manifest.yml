@@ -1,5 +1,5 @@
 ---
 applications:
- - name: GetStartedPHP
+ - name: ShuleBit
    random-route: true
    memory: 128M
